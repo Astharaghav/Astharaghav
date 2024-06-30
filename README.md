@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Astharaghav
-- 👀 I’m interested in software developent engineering.
+- 👀 I’m interested in software development.
 - 🌱 I’m currently learning java with bootstrap.
 - 💞️ I’m looking to collaborate with like minded individuals.
 - 📫 How to reach me-
